@@ -1,0 +1,13 @@
+.navbar-nav > li > a {
+    color: #fff;
+  }
+  .navbar-toggle {
+    border: none;
+  }
+  .navbar-default .navbar-toggle .icon-bar {
+    background-color: #fff;
+  }
+  #navbar-menu {
+    background-color: #333;
+  }
+  
